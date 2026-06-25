@@ -86,7 +86,87 @@ Senior Cloud & DevOps Engineer with 9+ years of experience architecting, automat
 
 ---
 
+## Tools & Expertise Proficiency 📊
+
+```text
+Terraform        ████████████████████████████████████████░░  95%
+AWS              ████████████████████████████████████████░░  95%
+Kubernetes/EKS   ██████████████████████████████████████░░░░  90%
+Docker           ██████████████████████████████████████░░░░  90%
+Python           ██████████████████████████████████████░░░░  90%
+CI/CD (Jenkins)  ████████████████████████████████████░░░░░░  85%
+Prometheus       ████████████████████████████████████░░░░░░  85%
+Grafana          ████████████████████████████████████░░░░░░  85%
+Ansible          ██████████████████████████████████░░░░░░░░  80%
+Azure/AKS        ██████████████████████████████████░░░░░░░░  80%
+GCP/GKE          ████████████████████████████████░░░░░░░░░░  75%
+Go               ██████████████████████████████░░░░░░░░░░░░  70%
+ArgoCD/GitOps    ████████████████████████████████████░░░░░░  85%
+Linux            ██████████████████████████████████████░░░░  90%
+ELK/Splunk       ████████████████████████████████████░░░░░░  85%
+Istio/Mesh       ████████████████████████████████░░░░░░░░░░  75%
+GenAI/LLMs       ██████████████████████████████░░░░░░░░░░░░  70%
+```
+
+---
+
+## What I've Built & Delivered 🏗️
+
+```mermaid
+mindmap
+  root((Fairoz B))
+    Cloud Architecture
+      Multi-Cloud (AWS, Azure, GCP)
+      500+ Accounts Managed
+      Landing Zones & Control Tower
+      Multi-Region HA/DR
+      99.95% Uptime SLA
+    Platform Engineering
+      Internal Developer Platform
+      Self-Service Tooling
+      100+ Engineers Enabled
+      70% Fewer Ops Tickets
+      50% Faster Developer Velocity
+    DevOps & Automation
+      CI/CD Pipelines
+      200+ Daily Deployments
+      99.9% Success Rate
+      94% Faster Releases
+      85% Operations Automated
+    SRE & Observability
+      Prometheus + Grafana + ELK
+      60-83% MTTR Reduction
+      SLOs & Error Budgets
+      Incident Response & RCA
+      On-Call Leadership
+    Security & Governance
+      Zero Trust / IAM / RBAC
+      Policy-as-Code (OPA)
+      SOC2 Type II (Zero Findings)
+      Compliance Automation
+    Cost Optimization
+      $2M+ Annual Savings
+      FinOps & Rightsizing
+      95% Cost Attribution
+    AI-Powered Operations
+      AIOps & AI Agents
+      Self-Healing Infrastructure
+      RAG over Runbooks
+      Agentic AI Research (PhD)
+```
+
+---
+
 ## Impact & Achievements 🏆
+
+```mermaid
+pie title Areas of Impact
+    "Cloud Architecture & Infrastructure" : 30
+    "DevOps & CI/CD Automation" : 25
+    "Platform Engineering & IDP" : 20
+    "SRE & Observability" : 15
+    "Security & Governance" : 10
+```
 
 | Metric | Result |
 |--------|--------|
@@ -98,6 +178,29 @@ Senior Cloud & DevOps Engineer with 9+ years of experience architecting, automat
 | 💰 Annual Cost Savings | $2M+ |
 | 👥 Engineers Enabled | 100+ |
 | 📦 Daily Deployments | 200+ |
+
+---
+
+## Career Journey 🛤️
+
+```mermaid
+timeline
+    title Professional Timeline
+    2009-2013 : B.Tech CSE
+             : VTU, Karnataka
+    2013-2015 : M.Tech CSE
+             : Cloud Computing & Network Security
+    2015-2016 : Guest Faculty
+             : Computer Science
+    2016-2023 : Senior DevOps/SRE Engineer
+             : Cloud Infrastructure at Scale
+             : 5M+ Users, 99.95% Uptime
+    2023-Present : Senior Cloud & Platform Engineer
+                 : 500+ Accounts, $2M+ Savings
+                 : IDP, AIOps, Multi-Cloud
+    2026-Present : Ph.D. Researcher
+                 : Agentic AI Research
+```
 
 ---
 
